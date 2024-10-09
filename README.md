@@ -45,7 +45,6 @@ I am starting to do these challenges as a way to keep up with my skills. First, 
 - Semantic HTML5 markup
 - CSS
 - Flexbox
--
 
 ### What I learned
 
@@ -62,6 +61,6 @@ I want to keep learning old and new skills as the challenges dictate, because it
 
 ## Author
 
-- Website - [Bill Hall](https://christianwebdeveloper.com/)
+- Website - [Christian Web Developer](https://christianwebdeveloper.com/)
 - Frontend Mentor - [@flyboy85749](https://www.frontendmentor.io/profile/flyboy85749)
 - Github - [@flyboy85749](https:/github.com/flyboy85749)
