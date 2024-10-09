@@ -16,7 +16,6 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
     - [Continued development](#continued-development)
     - [Useful resources](#useful-resources)
   - [Author](#author)
-  - [Acknowledgments](#acknowledgments)
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
@@ -34,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://flyboy85749.github.io/social-links-profile-main/)
-- Live Site URL: [Add live site URL here](https://flyboy85749.github.io/social-links-profile-main/)
+- Solution URL: https://flyboy85749.github.io/social-links-profile-main/
+- Live Site URL: https://flyboy85749.github.io/social-links-profile-main/
 
 ## My process
 
@@ -66,5 +65,3 @@ I want to keep learning old and new skills as the challenges dictate, because it
 - Website - [Bill Hall](https://christianwebdeveloper.com/)
 - Frontend Mentor - [@flyboy85749](https://www.frontendmentor.io/profile/flyboy85749)
 - Github - [@flyboy85749](https:/github.com/flyboy85749)
-
-## Acknowledgments
